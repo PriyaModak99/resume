@@ -1,0 +1,29 @@
+h1{
+    color:crimson;
+    text-align: center;
+    text-decoration: underline;
+}
+p,b{
+    font-style: normal;
+    font-size: 15px;
+    line-height: 1%;
+}
+
+h2{
+    text-decoration: underline;
+}
+table,tr,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 6px;
+}
+th{
+    color:brown;
+
+}
+img{
+    height: 300px;
+    width: 300px;
+    float: right;
+    justify-content: center;
+}
